@@ -3,21 +3,21 @@ First Real World Data Science Case Study and Project
 PDF file attached for details
 
 Project Timeline:
-1.Initial Exploratory Project
+1. Initial Exploratory Project
   Gathered monthly data on the foreign-worker share and the unemployment rate to see the raw trend.
 
-2.Pilot Hypothesis Test
+2. Pilot Hypothesis Test
   Null H₀: “More foreign workers raise unemployment.”
   Result: Significant inverse correlation ⇒ H₀ rejected; the alternative gained support.
 
-3.Full Multivariate-Analysis (MVA) Project
+3. Full Multivariate-Analysis (MVA) Project
   Added GDP growth, inflation, interest rate, FDI, labour-force metrics; used PCA/FA → k-Means/LDA → CCA → robust regression to isolate effects.
 
-4.Comprehensive Findings
+4. Comprehensive Findings
   Macro levers dominate unemployment variation; foreign-worker share still shows a small but consistent negative coefficient (≈ –0.07 ppt per +1 ppt FW %).
   Policy takeaway: macro stabilisation and up-skilling beat blanket labour caps.
 
-5.Future Work (Next Phase)
+5. Future Work (Next Phase)
 
 Dynamic causality: move to VECM/Bayesian VAR to capture lags between foreign-labour inflow and jobless changes.
 
